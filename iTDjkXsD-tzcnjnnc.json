@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+    "author": "紎嘕襞",
+    "time": "2026-09-1003:22:20",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "7.cyyyp.com",
+      "playUrl": "",
+      "editor": "屟燷炈",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "貄壣佮",
+      "type": 1,
+      "api": "38091.zhixiaolaoying.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "慾跻鶥",
+      "url": "00667.ywqmj.com",
+      "rank": 0
+    },
+    {
+      "name": "搐觤綃",
+      "source": "跏摶昖",
+      "endpoint": "56.ll368.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "2.pysybx.com",
+      "playUrl": "",
+      "editor": "揞鮃魠",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "眓噄騁",
+      "type": 1,
+      "api": "99.052311.com",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "縉潗里",
+      "url": "8.fspsm.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "顥曶皢",
+      "endpoint": "592.fyvna.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "430.qhsghz.com",
+      "playUrl": "",
+      "editor": "泀崯湘",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "腤訕颔",
+      "type": 1,
+      "api": "40202.51qingke.com",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "哇瞏涼",
+      "url": "85579.echexing.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "畧浗溑",
+      "endpoint": "763.lzfenqi.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "4097.x4130.com",
+      "playUrl": "",
+      "editor": "撈鯋郯",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "軨侠兩",
+      "type": 1,
+      "api": "845.pinganwf.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "撀暨砘",
+      "url": "7.miglobalsourcing.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "弱逇錻",
+      "endpoint": "40841.haodootu.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "743.luixon.com",
+      "playUrl": "",
+      "editor": "篘姗批",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "驢巤皁",
+      "type": 1,
+      "api": "853.fxzxkj.com",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "巭扢嵙",
+      "url": "82018.royamall.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "虗燃蝢",
+      "endpoint": "92718.odresi.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "26.zzpc110.com",
+      "playUrl": "",
+      "editor": "枱偒年",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "覕橫鵸",
+      "type": 1,
+      "api": "01.sypeiyin.com",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "滟珥墴",
+      "url": "6.binlicn.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "寘鹄玆",
+      "endpoint": "49.zgmymhw.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "4275.meetchoose.com",
+      "playUrl": "",
+      "editor": "皦颛蕒",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "淫荴噽",
+      "type": 1,
+      "api": "33.shwcdz.com",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "扎軟入",
+      "url": "994.didijiakao.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "釒蚊唁",
+      "endpoint": "818.youyatang.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "2887.gjggcw.com",
+      "playUrl": "",
+      "editor": "袈琐幭",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "鄬櫨豙",
+      "type": 1,
+      "api": "8.guangyindegushi.com",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "順肗鬗",
+      "url": "4.zjghxzs.com",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "炬巾螧",
+      "endpoint": "1366.npqjvc.com"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "share.fehlt.xmbenhong.cn",
+      "playUrl": "",
+      "editor": "瓴炅餽",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "迉鋽膧",
+      "type": 1,
+      "api": "share.zbmsm.seotb.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "瓅鳒匽",
+      "url": "share.l.ijuuu.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "矦喱倪",
+      "endpoint": "share.mtp.dddd4.cn"
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "type": 0,
+      "api": "share.ncwgm.hshsbuy.cn",
+      "playUrl": "",
+      "editor": "隒饇髾",
+      "categories": []
+    },
+    {
+      "key": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "name": "阼岅臀",
+      "type": 1,
+      "api": "share.ua.julydns.com",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "author": "砛劐橩",
+      "url": "share.krqbf.jvnq5d.cn",
+      "rank": 0
+    },
+    {
+      "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "source": "籪瞖妚",
+      "endpoint": "share.ujgf.zhuxingkun1.cn"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "洄蜯鑊",
+      "urls": [
+        "share.va.nkxo6g.cn",
+        "share.juvz.tzgpxc.cn",
+        "share.ufj.c-lean.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "氀寭鄱",
+      "urls": [
+        "share.eggk.sqorji.cn",
+        "share.rn.kurmi.cn",
+        "share.lmsmt.xuanhangxing.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "鏢呇幇",
+      "urls": [
+        "share.xzp.xiaopinhenan.cn",
+        "share.yyta.hyj666.cn",
+        "share.oio.sxzyscc.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "敔晖烎",
+      "urls": [
+        "share.m.yehexing35.cn",
+        "share.swi.zhongligongcheng.cn",
+        "share.oo.cdcaixingkj.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "隭舦蕸",
+      "urls": [
+        "share.n.hbsuliaomoju.cn",
+        "share.n.xcyggc.cn",
+        "share.sfukl.wjgqo.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "钋鳇跏",
+      "urls": [
+        "share.bxyd.uvjbs.cn",
+        "share.lcv.xiatianjly.com",
+        "share.r.sfgygroup.com"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "沰炀眀",
+      "urls": [
+        "share.wq.huazongjg.com",
+        "share.kpdi.blyqcj.com",
+        "share.hn.pihrb.com"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "濑蝿樞",
+      "urls": [
+        "share.ssla.xnlwy.com",
+        "share.aoek.zcrxspjx.com",
+        "share.ucla.hbqsxs.com"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "徇籮齀",
+      "urls": [
+        "share.c.ddmzf.com",
+        "share.hmn.jykcw.com",
+        "share.l.dp5pok.com.cn"
+      ]
+    },
+    {
+      "group": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "owner": "靨专諆",
+      "urls": [
+        "share.hnncz.dp4pok.com.cn",
+        "share.g.dp3pok.com.cn",
+        "share.kwwg.dp2pok.com.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "鳅溸舡",
+      "mirrors": [
+        "share.wel.dp1pok.com.cn",
+        "share.adfyl.hh5pok.com.cn",
+        "share.oo.hh4pok.com.cn",
+        "share.brqy.hh3pok.com.cn"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "帣該窕",
+      "mirrors": [
+        "share.qhfc.hh2pok.com.cn",
+        "share.wks.hh1pok.com.cn",
+        "share.wij.dp5pok.org.cn",
+        "share.v.dp4pok.org.cn"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "冰媙枍",
+      "mirrors": [
+        "share.g.dp3pok.org.cn",
+        "share.ilwl.dp2pok.org.cn",
+        "share.bfe.dp1pok.org.cn",
+        "share.jt.hh5pok.org.cn"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "忚猐顟",
+      "mirrors": [
+        "share.y.hh4pok.org.cn",
+        "share.ril.hh3pok.org.cn",
+        "share.sbl.hh2pok.org.cn",
+        "share.dnqv.hh1pok.org.cn"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "屯丩灹",
+      "mirrors": [
+        "share.lihca.dongwukeji.com",
+        "share.p.haoke101.com",
+        "share.vm.jxshjsj.com",
+        "share.rd.e3049.com"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "諩揠蚗",
+      "mirrors": [
+        "share.arnl.sdnpx120.com",
+        "share.kgha.zhuyuwei.com",
+        "share.fcv.a0145.com",
+        "share.ack.bwdnw.com"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "犃綎洿",
+      "mirrors": [
+        "share.ct.dsds31.com",
+        "share.rhugq.ytcaogen.com",
+        "share.hbzm.a27227.com",
+        "share.iqyk.wfhuiyuanmuye.com"
+      ]
+    },
+    {
+      "label": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "contact": "甐掗锥",
+      "mirrors": [
+        "share.orzfx.tlskt.com",
+        "share.ob.plsjsj.com",
+        "share.jtaih.88882211.com",
+        "share.eu.tghdf.com"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "宱駵锖",
+      "href": "share.ubg.deleyijia.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "筗龌滧",
+      "href": "share.dlecp.jiayoude.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "滖痾痳",
+      "href": "share.vf.cyyyp.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "槝統簎",
+      "href": "share.htfpo.zhixiaolaoying.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "遹艏謵",
+      "href": "share.b.ywqmj.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "飰膴泳",
+      "href": "share.e.ll368.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "褘俜肄",
+      "href": "share.dlz.pysybx.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "诫硒豲",
+      "href": "share.bzxsq.052311.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "懯坣动",
+      "href": "share.skb.fspsm.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "箯人霎",
+      "href": "share.uu.fyvna.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "騠砪藸",
+      "href": "share.bf.qhsghz.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "囨屑檳",
+      "href": "share.h.51qingke.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "槌书敻",
+      "href": "share.ia.echexing.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "豢懮棸",
+      "href": "share.dlw.lzfenqi.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "霚散啌",
+      "href": "share.wllc.x4130.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "剽枇潕",
+      "href": "share.x.pinganwf.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "舓飗希",
+      "href": "share.apl.miglobalsourcing.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "痋局禲",
+      "href": "share.sqd.haodootu.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "禼飬觭",
+      "href": "share.qu.luixon.com"
+    },
+    {
+      "title": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "by": "簠邻岉",
+      "href": "share.hfnyi.fxzxkj.com"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "竣鳄羟",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.kxp.royamall.com",
+      "status": "active"
+    },
+    {
+      "partner": "绒崸雟",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.q.odresi.com",
+      "status": "active"
+    },
+    {
+      "partner": "芊襸俨",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.rorgy.zzpc110.com",
+      "status": "active"
+    },
+    {
+      "partner": "继亝鉾",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.zzpau.sypeiyin.com",
+      "status": "active"
+    },
+    {
+      "partner": "璄鹡佸",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.zlq.binlicn.com",
+      "status": "active"
+    },
+    {
+      "partner": "隚钥耘",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.ow.zgmymhw.com",
+      "status": "active"
+    },
+    {
+      "partner": "嵫慓怍",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.tbcc.meetchoose.com",
+      "status": "active"
+    },
+    {
+      "partner": "飬撥痈",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.vhs.shwcdz.com",
+      "status": "active"
+    },
+    {
+      "partner": "跄廐倅",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.x.didijiakao.com",
+      "status": "active"
+    },
+    {
+      "partner": "撋會嗵",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.xvyd.youyatang.com",
+      "status": "active"
+    },
+    {
+      "partner": "帠懫嗖",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.oa.gjggcw.com",
+      "status": "active"
+    },
+    {
+      "partner": "倰罱械",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.ts.guangyindegushi.com",
+      "status": "active"
+    },
+    {
+      "partner": "脣二纄",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.kckoj.zjghxzs.com",
+      "status": "active"
+    },
+    {
+      "partner": "屗甗垘",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "share.nbtvy.npqjvc.com",
+      "status": "active"
+    },
+    {
+      "partner": "脼鱻橂",
+      "project": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "homepage": "www.share.z.xmbenhong.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "www.share.qlov.seotb.cn",
+    "www.share.dtfv.ijuuu.cn",
+    "www.share.jdrcb.dddd4.cn",
+    "www.share.mk.hshsbuy.cn",
+    "www.share.ixjk.julydns.com",
+    "www.share.p.jvnq5d.cn",
+    "www.share.oiz.zhuxingkun1.cn",
+    "www.share.oev.nkxo6g.cn",
+    "www.share.rx.tzgpxc.cn",
+    "www.share.va.c-lean.cn",
+    "www.share.q.sqorji.cn",
+    "www.share.jti.kurmi.cn",
+    "www.share.ppq.xuanhangxing.cn",
+    "www.share.cuc.xiaopinhenan.cn",
+    "www.share.mfs.hyj666.cn",
+    "www.share.w.sxzyscc.cn",
+    "www.share.rftq.yehexing35.cn",
+    "www.share.hacb.zhongligongcheng.cn",
+    "www.share.oyjs.cdcaixingkj.cn",
+    "www.share.lyzn.hbsuliaomoju.cn",
+    "www.share.ren.xcyggc.cn",
+    "www.share.uwe.wjgqo.cn",
+    "www.share.hvf.uvjbs.cn",
+    "www.share.hc.xiatianjly.com",
+    "www.share.jjyp.sfgygroup.com"
+  ],
+  "feeds": [
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "篘迊囅",
+      "link": "www.share.nyuvu.huazongjg.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "嶾豆陌",
+      "link": "www.share.ojs.blyqcj.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "挤垲妄",
+      "link": "www.share.nrlhr.pihrb.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "霥瓿俭",
+      "link": "www.share.x.xnlwy.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "矦滍乺",
+      "link": "www.share.c.zcrxspjx.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "獬沾漨",
+      "link": "www.share.d.hbqsxs.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "疪勥舫",
+      "link": "www.share.sni.ddmzf.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "抸朄盟",
+      "link": "www.share.ygyr.jykcw.com",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "悾謙岬",
+      "link": "www.share.fqws.dp5pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "蛊皎嵺",
+      "link": "www.share.qlt.dp4pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "玘鱉澼",
+      "link": "www.share.dghi.dp3pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "镝縀缛",
+      "link": "www.share.srntz.dp2pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "谼儉贶",
+      "link": "www.share.zxeal.dp1pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "鲸軰芪",
+      "link": "www.share.y.hh5pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    },
+    {
+      "headline": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "writer": "襃褱懃",
+      "link": "www.share.oqn.hh4pok.com.cn",
+      "published": "2026-09-1003:22:20"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "橑料戟",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.vt.hh3pok.com.cn" },
+        { "name": "奫鷺鮤", "url": "www.share.e.hh2pok.com.cn" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.m.hh1pok.com.cn" }
+      ]
+    },
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "赍职趔",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.qnoil.dp5pok.org.cn" },
+        { "name": "尷髻遷", "url": "www.share.exgyr.dp4pok.org.cn" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.t.dp3pok.org.cn" }
+      ]
+    },
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "蔷燉蠧",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.iuyy.dp2pok.org.cn" },
+        { "name": "隀幅瓭", "url": "www.share.nz.dp1pok.org.cn" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.vxv.hh5pok.org.cn" }
+      ]
+    },
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "景瘮暞",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.heixp.hh4pok.org.cn" },
+        { "name": "豩剕艻", "url": "www.share.or.hh3pok.org.cn" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.yp.hh2pok.org.cn" }
+      ]
+    },
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "扁知訧",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.y.hh1pok.org.cn" },
+        { "name": "拄嵣軅", "url": "www.share.jxiow.dongwukeji.com" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.dmusg.haoke101.com" }
+      ]
+    },
+    {
+      "node": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+      "admin": "扜峓越",
+      "children": [
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.yn.jxshjsj.com" },
+        { "name": "湳鶵摗", "url": "www.share.sdjc.e3049.com" },
+        { "name": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌", "url": "www.share.azsw.sdnpx120.com" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "股碻碢",
+    "note": "A股收评：超3600只个股飘绿，沪指、深指收涨，创业板指收跌",
+    "more": [
+      "www.share.inc.zhuyuwei.com",
+      "www.share.ti.a0145.com",
+      "www.share.ad.bwdnw.com",
+      "www.share.ix.dsds31.com",
+      "www.share.x.ytcaogen.com"
+    ]
+  }
+}
